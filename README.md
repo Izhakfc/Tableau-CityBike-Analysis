@@ -20,7 +20,7 @@ In this graph we have the locations of the starting points for bikesharing users
 
 <img src="./Resources/peak.PNG" alt="Hours graphs" />
 
-The trip durations of bike rides was analyzed in this graph, we observe trip durations tend to be around 5 minutes long, and then the count of bike users reduces as the time of the trip duration increases. We can infer by this that bikesharing users only use the service to move quickly throught the city, or to relatively close locations, since there are almost none trips with a duration greater than 1 hour.<img src="./Resources/Hours.PNG" alt="Hours graphs" />
+The trip durations of bike rides was analyzed in this graph, we observe trip durations tend to be around 5 minutes long, and then the count of bike users reduces as the time of the trip duration increases. We can infer by this that bikesharing users only use the service to move quickly throught the city, or to relatively close locations, since there are almost none trips with a duration greater than 1 hour.
 
 <img src="./Resources/dash.PNG" alt="Hours graphs" />
 
@@ -38,3 +38,5 @@ Based on this analysis we can conclude that:
 I will recommend analysing the average distance of each ride to define a certain range of kilometers before the bikes need to get to maintenance, an also it will be beneficial to analyze the most used routes, in order to create an advertising strategy for the service.
 
 #### Link for the Tableau dashboard.
+
+<code>[link to dashboard](https://public.tableau.com/shared/WYPMBFFKW?:display_count=n&:origin=viz_share_link)</code>
